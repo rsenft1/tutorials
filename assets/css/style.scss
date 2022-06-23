@@ -1,6 +1,7 @@
 ---
 ---
-@import 'jekyll-theme-minima';
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 /* "{{ site.theme }}" = Your theme name */
 /* Eg: @import 'jekyll-theme-cayman'; */
 

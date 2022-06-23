@@ -19,4 +19,4 @@ jobs:
       - uses: vimtor/action-zip@v1
         with:
           files: 3d_monolayer/
-          dest: 3d_monolayer/3d_monolayer_tutorial_files.zip
+          dest: 3d_monolayer_tutorial_files.zip

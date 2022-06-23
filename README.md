@@ -1,6 +1,17 @@
 # Our tutorials
 CellProfiler tutorial pipelines and images
 
+![](Revitalize_example_pipelines/giftry2.gif)
+
+<img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
+
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | <img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="100%">      |
+
+
 ## 3d_monolayer
 
 A tutorial that describes building a pipeline to segment the nuclei and cell boundaries of a HeLa cell monolayer in 3d.  This tutorial is currently in development.

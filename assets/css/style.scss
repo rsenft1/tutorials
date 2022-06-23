@@ -1,8 +1,13 @@
 ---
 ---
+@import 'jekyll-theme-minima';
+/* "{{ site.theme }}" = Your theme name */
+/* Eg: @import 'jekyll-theme-cayman'; */
 
-@import "{{ site.theme }}";
-
+/* Your css rules goes after this */
+.page-header {
+    background: #191c20;
+}
 body {
-  background-color: "#f3f3f3";
+  background-color: #f3f3f3;
 }

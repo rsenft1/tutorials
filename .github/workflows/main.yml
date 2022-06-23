@@ -20,3 +20,7 @@ jobs:
         with:
           files: 3d_monolayer/
           dest: 3d_monolayer_tutorial_files.zip
+      - uses: actions/upload-artifact@v1
+        with:
+          name: my-artifact
+          path: ${{ github.workspace }}/3d_monolayer_tutorial_files.zip

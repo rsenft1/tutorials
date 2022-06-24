@@ -34,6 +34,9 @@ The tutorial is a step by step guide and contains example data, CellProfiler pip
 
 ## PixelBasedClassification
 
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.|<img src="Revitalize_example_pipelines/giftry2.gif" width="300"> |  
+|--------------|-----------|
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="300">   |
 A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.
 
 ## QualityControl

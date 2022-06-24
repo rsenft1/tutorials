@@ -1,6 +1,23 @@
 # Our tutorials
 CellProfiler tutorial pipelines and images
 
+
+## Imaging flow cytometry
+
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="Revitalize_example_pipelines/giftry2.gif" width="200"> |  
+|--------------|-----------|
+
+## AdvancedSegmentation
+
+|    A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download      |  <img src="assets/img/specklescd_1.gif" width="200">    |  
+|--------------|-----------|
+
+## PixelBasedClassification
+
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklesab_1.gif" width="200"> |  
+|--------------|-----------|
+
+
 ## 3D Monolayer
 
 <img src="Revitalize_example_pipelines/giftry2.gif" width="200">
@@ -15,30 +32,6 @@ A tutorial for high-content analysis of imaging flow cytometry (IFC) data with C
 https://github.com/holgerhennig/machine-learning-IFC
 
 The tutorial is a step by step guide and contains example data, CellProfiler pipelines and a machine learning script (in python) which can serve as a starting point when analyzing your own IFC data.
-
-## Imaging flow cytometry
-
-<img align="center" src="Revitalize_example_pipelines/giftry2.gif" width="200">
-
-A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
-https://github.com/holgerhennig/machine-learning-IFC
-
-The tutorial is a step by step guide and contains example data, CellProfiler pipelines and a machine learning script (in python) which can serve as a starting point when analyzing your own IFC data.
-
-
-## AdvancedSegmentation
-
-|          |      |  
-|--------------|-----------|
-| A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="300">   |
-
-## PixelBasedClassification
-
-|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.|<img src="Revitalize_example_pipelines/giftry2.gif" width="300"> |  
-|--------------|-----------|
-| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="300">   |
-A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.
-
 ## QualityControl
 
 A tutorial to show how to use CellProfiler plus CellProfiler Analyst to perform quality control on large scale screens.

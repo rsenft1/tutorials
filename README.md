@@ -11,6 +11,11 @@ CellProfiler tutorial pipelines and images
 | Juicy Apples | 1.99      | *7*        |
 | Bananas      | **1.89**  | <img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="100%">      |
 
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | <img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="100px">      |
+
 
 ## 3d_monolayer
 

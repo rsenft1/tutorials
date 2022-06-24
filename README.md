@@ -34,6 +34,7 @@ The tutorial is a step by step guide and contains example data, CellProfiler pip
 A tutorial 
 
 ## AdvancedSegmentation
+
 |          |      |  
 |--------------|-----------|
 | A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="300">   |

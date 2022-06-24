@@ -1,8 +1,6 @@
 ---
 ---
-@import 'minimal';
-/* "{{ site.theme }}" = Your theme name */
-/* Eg: @import 'jekyll-theme-cayman'; */
+@import "{{ site.theme }}";
 
 /* Your css rules goes after this */
 .page-header {

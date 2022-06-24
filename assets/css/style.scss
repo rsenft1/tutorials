@@ -10,6 +10,9 @@ body {
   background-color: #f3f3f3;
   font-family: Raleway, Arial, Helvetica, sans-serif;
 }
+
+/* overall table settings */
+
 table {
     border-top: none;
     border-left: none;
@@ -18,6 +21,9 @@ table {
     vertical-align: top;
     text-align: left;
 }
+
+/* settings for the table header */
+
 table th {
     border-top: none;
     border-left: none;
@@ -25,7 +31,11 @@ table th {
     border-bottom: none;
     vertical-align: top;
     text-align: left;
+    font-weight: normal;
 }
+
+/* settings for the table data (i.e., rows below the header) */
+
 table td {
     border-top: none;
     border-left: none;

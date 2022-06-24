@@ -4,6 +4,12 @@ CellProfiler tutorial pipelines and images
 ![](Revitalize_example_pipelines/giftry2.gif)
 
 <img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
+<img src="./blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
+<img src="blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
+<img src="Revitalize_example_pipelines/giftry2.gif" width="20%">
+<img src="/blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
+<img src="https://github.com/rsenft1/tutorials/Revitalize_example_pipelines/giftry2.gif" width="20%">
+
 
 
 | Item         | Price     | # In stock |

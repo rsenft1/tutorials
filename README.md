@@ -16,8 +16,6 @@ https://github.com/holgerhennig/machine-learning-IFC
 
 The tutorial is a step by step guide and contains example data, CellProfiler pipelines and a machine learning script (in python) which can serve as a starting point when analyzing your own IFC data.
 
-<br><br><br>
-
 ## Imaging flow cytometry
 
 <img align="left" src="Revitalize_example_pipelines/giftry2.gif" width="200">

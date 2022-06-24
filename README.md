@@ -1,28 +1,6 @@
 # Our tutorials
 CellProfiler tutorial pipelines and images
 
-![](Revitalize_example_pipelines/giftry2.gif)
-
-<img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
-<img src="./blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
-<img src="blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
-<img src="Revitalize_example_pipelines/giftry2.gif" width="20%">
-<img src="/blob/master/Revitalize_example_pipelines/giftry2.gif" width="20%">
-<img src="https://github.com/rsenft1/tutorials/Revitalize_example_pipelines/giftry2.gif" width="20%">
-
-
-
-| Item         | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | <img src="https://github.com/rsenft1/tutorials/blob/master/Revitalize_example_pipelines/giftry2.gif" width="100%">      |
-
-| Item         | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | <img src="Revitalize_example_pipelines/giftry2.gif" width="150">      |
-
-
 ## 3D Monolayer
 
 <img src="Revitalize_example_pipelines/giftry2.gif" width="200">
@@ -31,7 +9,7 @@ A tutorial that describes building a pipeline to segment the nuclei and cell bou
 
 ## Imaging flow cytometry
 
-<img src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img src="Revitalize_example_pipelines/giftry2.gif" align="center" width="200">
 
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC
@@ -39,10 +17,9 @@ https://github.com/holgerhennig/machine-learning-IFC
 The tutorial is a step by step guide and contains example data, CellProfiler pipelines and a machine learning script (in python) which can serve as a starting point when analyzing your own IFC data.
 
 ## AdvancedSegmentation
-
 |          |      |  
 |--------------|-----------|
-| A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="200">   |
+| A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download     | <img src="Revitalize_example_pipelines/giftry2.gif" width="300">   |
 
 ## PixelBasedClassification
 

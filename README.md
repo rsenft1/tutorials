@@ -4,18 +4,23 @@ CellProfiler tutorial pipelines and images
 
 ## Imaging flow cytometry
 
-|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="Revitalize_example_pipelines/giftry2.gif" width="200"> |  
-|--------------|-----------|
+| Description | Image |
+|---|---|
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="Revitalize_example_pipelines/giftry2.gif" width="200"> |
+
 
 ## AdvancedSegmentation
 
-|    A tutorial that uses a CellPainting assay to segment organelles and to maximize segmentation robustness. <br> Download      |  <img src="assets/img/specklescd_1.gif" width="200">    |  
-|--------------|-----------|
+| Description | Image |
+|---|---|
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="assets/img/specklesab_1.gif" width="200"> |
+
 
 ## PixelBasedClassification
 
-|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklesab_1.gif" width="200"> |  
-|--------------|-----------|
+| Description | Image |
+|---|---|
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklescd_1.gif" width="200"> |  
 
 
 ## 3D Monolayer

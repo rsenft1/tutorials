@@ -3,11 +3,12 @@
 @import "{{ site.theme }}";
 
 /* Your css rules goes after this */
-.page-header {
-    background: #191c20;
+a {
+  color: #006DB6;
 }
 body {
   background-color: #f3f3f3;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 table {
     border-top: none;

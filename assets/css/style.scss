@@ -31,7 +31,7 @@ table th {
     border-bottom: none;
     vertical-align: top;
     text-align: left;
-    font-weight: normal;
+    visibility: collapse;   
 }
 
 /* settings for the table data (i.e., rows below the header) */

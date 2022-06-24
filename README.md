@@ -18,7 +18,7 @@ The tutorial is a step by step guide and contains example data, CellProfiler pip
 
 ## Imaging flow cytometry
 
-<img align="left" src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img align="center" src="Revitalize_example_pipelines/giftry2.gif" width="200">
 
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC

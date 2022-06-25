@@ -13,26 +13,25 @@ CellProfiler tutorial pipelines and images
 
 | Description | Image |
 |---|---|
-| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="assets/img/specklesab_1.gif" width="200"> |
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="assets/img/specklesab_1.gif" width="300"> |
 
 
 ## PixelBasedClassification
 
 | Description | Image |
 |---|---|
-|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklescd_1.gif" width="200"> |  
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklescd_1.gif" width="50%"> |  
 
 
 ## 3D Monolayer
 
-<img src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img align="left" src="Revitalize_example_pipelines/giftry2.gif" width="200">
 
 A tutorial that describes building a pipeline to segment the nuclei and cell boundaries of a HeLa cell monolayer in 3d. 
 
 ## Imaging flow cytometry
 
-<img align="right" src="Revitalize_example_pipelines/giftry2.gif" align="center" width="200">
-
+<img align="right" src="Revitalize_example_pipelines/giftry2.gif" width="200">
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC
 

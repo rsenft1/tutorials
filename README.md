@@ -20,12 +20,12 @@ CellProfiler tutorial pipelines and images
 
 | Description | Image |
 |---|---|
-|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklescd_1.gif" width="50%"> |  
+|A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download|<img src="assets/img/specklescd_1.gif" width="100%"> |  
 
 
 ## 3D Monolayer
 
-<img align="left" src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img align="center" src="Revitalize_example_pipelines/giftry2.gif" width="200">
 
 A tutorial that describes building a pipeline to segment the nuclei and cell boundaries of a HeLa cell monolayer in 3d. 
 

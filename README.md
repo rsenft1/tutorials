@@ -6,14 +6,14 @@ CellProfiler tutorial pipelines and images
 
 | Description | Image |
 |---|---|
-| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="Revitalize_example_pipelines/giftry2.gif" width="200"> |
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="Revitalize_example_pipelines/giftry2.gif" width="100%"> |
 
 
 ## AdvancedSegmentation
 
 | Description | Image |
 |---|---|
-| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="assets/img/specklesab_1.gif" width="300"> |
+| A tutorial describing how to use ilastik in combination with CellProfiler to segment cells imaged only in phase contrast without any added fluorescence.<br> Download | <img src="assets/img/specklesab_1.gif" width="100%"> |
 
 
 ## PixelBasedClassification

@@ -25,17 +25,19 @@ CellProfiler tutorial pipelines and images
 
 ## 3D Monolayer
 
-<img align="center" src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img src="Revitalize_example_pipelines/giftry2.gif">
 
 A tutorial that describes building a pipeline to segment the nuclei and cell boundaries of a HeLa cell monolayer in 3d. 
 
 ## Imaging flow cytometry
 
 <img class= "imgbutton" src="Revitalize_example_pipelines/giftry2.gif">
+
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC
 
-<img align="right" src="Revitalize_example_pipelines/giftry2.gif" width="100">
+<img align="right" src="Revitalize_example_pipelines/giftry2.gif">
+
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC
 

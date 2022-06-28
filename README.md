@@ -31,7 +31,7 @@ A tutorial that describes building a pipeline to segment the nuclei and cell bou
 
 ## Imaging flow cytometry
 
-<img align="right" src="Revitalize_example_pipelines/giftry2.gif" width="200">
+<img class= "imgbutton" src="Revitalize_example_pipelines/giftry2.gif">
 A tutorial for high-content analysis of imaging flow cytometry (IFC) data with CellProfiler and machine learning can be found here:
 https://github.com/holgerhennig/machine-learning-IFC
 
